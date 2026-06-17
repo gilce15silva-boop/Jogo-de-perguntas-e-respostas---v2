@@ -1,2 +1,2 @@
-# Jogo-de-perguntas-e-respostas---v2
-Um jogo de perguntas e respostas para você se divertir com seus amigos
+# QUIZ Interativo---v2
+Teste seus conhecimentos para se divertir com seus amigos
